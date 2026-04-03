@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=50&lines=FSOCIETY-PK;Cyber+Security+%7C+Learning+%7C+Writeups" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=50&lines=FSOCIETY PK;Cyber+Security+%7C+Learning+%7C+Writeups" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -36,9 +36,9 @@ As the **team lead**, I drive the vision — alongside **two core members** — 
 
 | Role | Member | Focus |
 |------|--------|-------|
-| **Team Lead** | `@fsociety-lead` | Strategy, final reviews, infra |
-| **Member 01** | `@wardr0gue` | Red teaming / CTF challenges |
-| **Member 02** | `@h4x0r_sh3ll` | Blue team / SOC analysis |
+| **Team Lead** | `@thehusnain`
+| **Member 01** | `@MIshaqDev` 
+| **Member 02** | `@usman-khan-23626` 
 
 <hr />
 
@@ -61,13 +61,10 @@ We welcome **anyone** who shares the hunger for learning and contributing.
     <img src="https://img.shields.io/badge/GitHub-fsociety--pk-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a hrefh="ttps://discord.gg/b2WAQy7e">
     <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black"/>
   </a>
   &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-@fsociety_pk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black"/>
-  </a>
 </div>
 
 <br/>
