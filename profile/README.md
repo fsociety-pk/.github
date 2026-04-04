@@ -60,11 +60,28 @@ Standard: clear writing, reproducible steps, and consistent contribution quality
 - Evidence (logs, screenshots, payload notes)
 - Mitigation or defensive insight
 
-## Activity and Momentum
+## CTFs We Played
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fsociety-pk&theme=high-contrast&bg_color=080304&color=ff6b6b&line=ff3b3b&point=ffd0d0&area=true&hide_border=true" width="100%" alt="Activity graph" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=CTF%20BATTLEFIELD&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&fontSize=30&desc=Documenting%20every%20challenge%20we%20solve&descAlign=50&descAlignY=72&color=0:140607,100:5B0F13" width="100%" alt="CTF banner" />
 </p>
+
+| Platform / CTF | Focus Areas | Status |
+|----------------|-------------|--------|
+| Hack The Box | Web, PrivEsc, Linux, AD | Played |
+| TryHackMe | Fundamentals, Red Team, Blue Team | Played |
+| VulnHub | Boot2Root, Enumeration, Exploitation | Played |
+| picoCTF | Web, Crypto, Forensics, Binary | Played |
+| CTFTime Events | Mixed Jeopardy Categories | Ongoing |
+
+### Recent Team Challenge Tags
+
+- Web Exploitation
+- Reverse Engineering
+- Binary Exploitation
+- Cryptography
+- Digital Forensics
+- OSINT
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:160708,100:7C1014" width="100%" alt="Footer wave" />
