@@ -36,11 +36,11 @@ We are team-led, but public contributors are welcome to join the mission.
 
 ## Team
 
-| Role | Handle |
-|------|--------|
-| Team Lead | @thehusnain |
-| Member 01 | @MIshaqDev |
-| Member 02 | @usman-khan-23626 |
+| Role | Name | Handle |
+|------|--------|-------|
+| Team Lead | Husnain |  [@thehusnain](https://github.com/thehusnain) |
+| Member 01 | Muhammad Ishaq | [@MIshaqDev](https://github.com/mishaqdev) |
+| Member 02 | Muhammad Usman Khan | [@usman-khan-23626](https://github.com/usman-khan-23626) |
 
 ## Public Can Join
 
