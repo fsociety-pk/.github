@@ -96,6 +96,9 @@ Standard: clear writing, reproducible steps, and consistent contribution quality
   <a href="https://discord.gg/b2WAQy7e">
     <img src="https://img.shields.io/badge/Discord-Community-1b0a0b?style=for-the-badge&logo=discord&logoColor=ff8888&labelColor=0c0405" alt="Discord" />
   </a>
+   <a href="https://www.fsocietypk.tech">
+    <img src="https://img.shields.io/badge/Website-fsocietypk.tech-1b0a0b?style=for-the-badge&logo=google-chrome&logoColor=ff8888&labelColor=0c0405" alt="Website" />
+  </a>
 </p>
 
 <p align="center"><strong>Train daily. Document deeply. Share publicly.</strong></p>
